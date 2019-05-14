@@ -10,9 +10,9 @@ The RNAseq analysis was made using both Salmon and Kallisto software for the rea
 
 ### Results Salmon
 
-#### Duodenum
+[Duodenum](http://github.com/RaquelPinho/RNAseq_Salmon_counts_R_Duodenum)
 
-#### Jejunum
+[Jejunum](
 
 #### Ileum
 
