@@ -4,7 +4,7 @@
 
 ## RNAseq analysis 
 
-The RNAseq analysis was made using both Salmon and Kallisto software for the read counts/ assignment. The differential expression analysis was done with both EdgeR (QLF-model) and DESeq2 (MLE), with the genes considered differently expressed being agreeing between the two models. The pathway analysis was done using DAVID and Reactome. the WGCNA  was also used for estimating network analysis between co-expressed genes. 
+The RNAseq analysis was made using both Salmon and Kallisto software for the read counts/ assignment. The differential expression analysis was done with both EdgeR (QLF-model) and DESeq2 (MLE), with the genes considered differently expressed the ones in agreement between the two models. The pathway analysis was done using DAVID and Reactome. the WGCNA  was also used for estimating network analysis between co-expressed genes. 
 
 ### Codes
 
