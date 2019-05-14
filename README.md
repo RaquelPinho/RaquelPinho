@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Welcome to Raquel Pinho Git page
 
-You can use the [editor on GitHub](https://github.com/RaquelPinho/RaquelPinho/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this webpage I will display the results of the RNAseq data and the Methylation analysis of the intestines of malnourished pigs fed with lyzozyme-rich milk. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## RNAseq analysis 
 
-### Markdown
+The RNAseq analysis was made using both Salmon and Kallisto software for the read counts/ assignment. The differential expression analysis was done with both EdgeR (QLF-model) and DESeq2 (MLE), with the genes considered differently expressed being agreeing between the two models. The pathway analysis was done using DAVID and Reactome. the WGCNA  was also used for estimating network analysis between co-expressed genes. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Codes
 
-```markdown
-Syntax highlighted code block
+### Results Salmon
 
-# Header 1
-## Header 2
-### Header 3
+#### Duodenum
 
-- Bulleted
-- List
+#### Jejunum
 
-1. Numbered
-2. List
+#### Ileum
 
-**Bold** and _Italic_ and `Code` text
+#### Along the intestinal length
 
-[Link](url) and ![Image](src)
-```
+### Results Kallisto
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Duodenum
 
-### Jekyll Themes
+#### Jejunum
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RaquelPinho/RaquelPinho/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Ileum
 
-### Support or Contact
+#### Along the intestinal length
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Comparison Kallisto Salmon
+
+#### Duodenum
+
+#### Jejunum
+
+#### Ileum
+
+#### Along the intestinal length
+
+
