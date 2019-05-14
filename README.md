@@ -1,4 +1,4 @@
-# Welcome to Raquel Pinho Git page
+# Welcome to Raquel Pinho's Git page
 
 [In this webpage](https://raquelpinho.github.io/RaquelPinho/), I will display the results of the RNAseq data and the Methylation analysis of the intestines of malnourished pigs fed with lyzozyme-rich milk. 
 
