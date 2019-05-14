@@ -12,30 +12,30 @@ The RNAseq analysis was made using both Salmon and Kallisto software for the rea
 
 [Duodenum](http://github.com/RaquelPinho/RNAseq_Salmon_counts_R_Duodenum)
 
-[Jejunum](
+[Jejunum](https://github.com/RaquelPinho/RNAseq_Salmon_counts_R_Jejunum)
 
-#### Ileum
+[Ileum](https://github.com/RaquelPinho/RNAseq_counts_Salmon_R_Ileum)
 
-#### Along the intestinal length
+[Along the intestinal length](https://github.com/RaquelPinho/RNAseq_Salmon-counts_Along_the_intestinal_length)
 
 ### Results Kallisto
 
-#### Duodenum
+[Duodenum](https://github.com/RaquelPinho/RNAseq_Kallisto_counts_Duodenum)
 
-#### Jejunum
+[Jejunum](https://github.com/RaquelPinho/RNAseq_Kallisto_counts_Jejunum)
 
-#### Ileum
+[Ileum](https://github.com/RaquelPinho/RNAseq_Kallisto_counts_Ileum)
 
-#### Along the intestinal length
+[Along the intestinal length](https://github.com/RaquelPinho/RNAseq_Kallisto_counts_Along_the_intestinal_length)
 
 ### Comparison Kallisto Salmon
 
-#### Duodenum
+[Duodenum](https://github.com/RaquelPinho/Kallisto_vs_Salmon_comparisons_Duodenum)
 
-#### Jejunum
+[Jejunum](https://github.com/RaquelPinho/Kallisto_vs_Salmon_comparisons_Jejunum)
 
-#### Ileum
+[Ileum](https://github.com/RaquelPinho/Kallisto_vs_Salmon_comparisons_Ileum)
 
-#### Along the intestinal length
+[Along the intestinal length](https://github.com/RaquelPinho/Kallisto_vs_Salmon_along_intestinal_length)
 
 
