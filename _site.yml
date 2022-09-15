@@ -1,0 +1,13 @@
+name: "Raquel Pinho"
+navbar:
+  title: "Raquel Pinho"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Education"
+      href: Journal.html
+    - text: "Publications"
+      href: Links.html
+    - text: "Projects"
+      href: Links.html
+output_dir: "docs"
