@@ -1,41 +1,30 @@
-# Welcome to Raquel Pinho's Git page
+# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+  
+## `Sorry guys but there will be no update until I buy a new laptop.`
+    
+######(If you like this theme or using it, please give a :star: for motivation.)
 
-[In this webpage](https://raquelpinho.github.io/RaquelPinho/), I will display the results of the RNAseq data and the Methylation analysis of the intestines of malnourished pigs fed with lyzozyme-rich milk. 
+**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
-## RNAseq analysis 
+## Features
+* Minimal, you can focus on your content
+* Responsive
+* Disqus integration
+* Syntax highlighting
+* Optional post image
+* Social icons
+* Page for sharing projects
+* Optional background image
+* Simple navigation menu
+* MathJax support
 
-The RNAseq analysis was made using both Salmon and Kallisto software for the read counts/ assignment. The differential expression analysis was done with both EdgeR (QLF-model) and DESeq2 (MLE), with the genes considered differently expressed the ones in agreement between the two models. The pathway analysis was done using DAVID and Reactome. the WGCNA  was also used for estimating network analysis between co-expressed genes. 
+## Preview
 
-### Codes
+![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
 
-### Results Salmon
+See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
 
-[Duodenum](http://github.com/RaquelPinho/RNAseq_Salmon_counts_R_Duodenum)
+## Getting Started
 
-[Jejunum](https://github.com/RaquelPinho/RNAseq_Salmon_counts_R_Jejunum)
-
-[Ileum](https://github.com/RaquelPinho/RNAseq_counts_Salmon_R_Ileum)
-
-[Along the intestinal length](https://github.com/RaquelPinho/RNAseq_Salmon-counts_Along_the_intestinal_length)
-
-### Results Kallisto
-
-[Duodenum](https://github.com/RaquelPinho/RNAseq_Kallisto_counts_Duodenum)
-
-[Jejunum](https://github.com/RaquelPinho/RNAseq_Kallisto_counts_Jejunum)
-
-[Ileum](https://github.com/RaquelPinho/RNAseq_Kallisto_counts_Ileum)
-
-[Along the intestinal length](https://github.com/RaquelPinho/RNAseq_Kallisto_counts_Along_the_intestinal_length)
-
-### Comparison Kallisto Salmon
-
-[Duodenum](https://github.com/RaquelPinho/Kallisto_vs_Salmon_comparisons_Duodenum)
-
-[Jejunum](https://github.com/RaquelPinho/Kallisto_vs_Salmon_comparisons_Jejunum)
-
-[Ileum](https://github.com/RaquelPinho/Kallisto_vs_Salmon_comparisons_Ileum)
-
-[Along the intestinal length](https://github.com/RaquelPinho/Kallisto_vs_Salmon_along_intestinal_length)
-
-
+To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
