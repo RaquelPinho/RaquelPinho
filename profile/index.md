@@ -33,7 +33,7 @@ learn and share knowledge.
     <td><b style="font-size:20px">Molecular Biology</b></td>
  </tr>
  <tr>
-    <td> PCR . qPCR . RTPCR . ddPCR . rhAmpSeq . CHANGE-Seq . DNA extraction . RNA extraction . Cloning . Bacterial transformation . Cellular transfection . Sanger sequencing . RFLP . CRISPR/Cas9 . Genotyping  . Library construction (NGS) . Western blot . Southern blot . Mammalian cell culture . Oocyte collection . Protein extraction</td>
+    <td> PCR . qPCR . RTPCR . ddPCR . rhAmpSeq . CHANGE-Seq . DNA extraction . RNA extraction . Cloning . Bacterial transformation . Cellular transfection . Sanger sequencing . RFLP . CRISPR/Cas9 . Genotyping  . Library construction (NGS) . Western blot . Southern blot . Mammalian cell culture . Oocyte collection . Golden gate assembly . Protein extraction</td>
  </tr>
 </table>
 
