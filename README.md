@@ -12,6 +12,8 @@ The is the repository of my [website](https://raquelpinho.github.io/RaquelPinho/
 
 ## Preview
 
-![screenshot of Raquel Pinho's website]("./assets/img/thumbnail_site.png")    
+<figure>
+<a href="./assets/img/thumbnail_site.png"><img src="./assets/img/thumbnail_site.png"></a>
+</figure>    
 
 
