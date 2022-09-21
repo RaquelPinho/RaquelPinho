@@ -13,7 +13,7 @@ The is the repository of my [website](https://raquelpinho.github.io/RaquelPinho/
 ## Preview
 
 <figure>
-<a href="./assets/img/thumbnail_site.png"><img src="./assets/img/thumbnail_site.png"></a>
+<a href="https://raquelpinho.github.io/RaquelPinho/"><img src="./assets/img/thumbnail_site.png"></a>
 </figure>    
 
 
