@@ -4,15 +4,14 @@ The is the repository of my [website](https://raquelpinho.github.io/RaquelPinho/
 
 
 ## What you can find there:
-* Profile
-* Packages
-* Publications
-* My CV
-* Contact information
-* Projects
+* [Profile](https://raquelpinho.github.io/RaquelPinho/about/)
+* [Packages](https://raquelpinho.github.io/RaquelPinho/rpackages/)
+* [Publications](https://raquelpinho.github.io/RaquelPinho/publications/)
+* [Projects](https://raquelpinho.github.io/RaquelPinho/projects/)
+* Contact 
 
 ## Preview
 
-![screenshot of Moon]("/assets/img/thumbnail_site.png")    
+![screenshot of Raquel Pinho's website]("./assets/img/thumbnail_site.png")    
 
 
