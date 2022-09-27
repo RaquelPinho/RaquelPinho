@@ -60,4 +60,4 @@ Data not published yet
 ## More
 
 <div markdown="0"><a href="https://github.com/RaquelPinho/" class="btn">Github page</a></div>
-<div markdown="0"><a href="ar_dashboard.html" class="btn">Dashboard</a></div>
+<div markdown="0"><a href="https://rpinho.shinyapps.io/startup_web/" class="btn">Dashboard</a></div>
